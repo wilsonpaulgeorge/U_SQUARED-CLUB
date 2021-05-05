@@ -38,7 +38,7 @@ h1{
 	background-color: darkgoldenrod;
 	padding: 15px;
 	margin-top: 5px;
-	font-family: Montserrat;
+	font-family: Montserrat:wght@900;
 }
 
 .carousel-heading{
@@ -86,7 +86,7 @@ body{
 	background-image: url('logo.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: 100% 110%;
+	background-size: 50% 100%;
 }
 
 .w-100 {
