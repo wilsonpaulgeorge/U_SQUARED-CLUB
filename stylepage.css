@@ -19,6 +19,7 @@ ul{
 	font-family: Monteserrat;
 	color: white;
 	text-align : center;
+	backfround-color : #0d6efd;
 }
 
 #dropdown .dropdown a{
@@ -27,7 +28,6 @@ ul{
 
 #dropdown a:hover{
 	color: red;
-	background-color : #0d6efd;
 }
 .container-fluid a: hover {
  	color: red;
